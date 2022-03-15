@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="CleanArchitectureBlueprints.app" target="11" />
+      <module name="example_clean_android.app" target="11" />
+      <module name="example_clean_android.data" target="11" />
+      <module name="ExampleCleanAndroid.app" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
